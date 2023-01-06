@@ -1,0 +1,15 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "Sample newsletter signup using Node, Express, and JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yaknow",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "express": "^4.18.2"
+  }
+}
